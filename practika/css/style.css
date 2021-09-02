@@ -12,7 +12,7 @@
 .showcase p {
   padding: 20px;
 }
-*{
+* {
   margin: 0px;
 }
 
@@ -44,30 +44,33 @@
   display: inline-block;
   text-align: center;
 }
-.box1{
-width: 33%;
-display: block;
-display: inherit;
-color: white;
-background-color: olive;
-text-align: center;
-padding: 15px;
+.box1 {
+  width: 33%;
+  display: block;
+  display: inherit;
+  color: white;
+  background-color: olive;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 0px;
 }
 .box2 {
-width: 33%;
-display: block;
-display: inherit;
-color: olive;
-background-color: white;
-text-align: center;
-padding: 15px;
+  width: 33%;
+  display: block;
+  display: inherit;
+  color: olive;
+  background-color: white;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 0px;
 }
 .box3 {
-width: 33%;
-display: block;
-display: inherit;
-color: white;
-background-color: olive;
-text-align: center;
-padding: 15px;
+  width: 33%;
+  display: block;
+  display: inherit;
+  color: white;
+  background-color: olive;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 0px;
 }
