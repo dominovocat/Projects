@@ -1,0 +1,18 @@
+.showcase{
+  background-image: url(./../bg.jpg);
+  background-size: cover;
+  background-position: center bottom;
+  height: 100vh;
+  text-align: center;
+  display: block;
+
+}
+.buttom{
+  border: #929292 2px solid;
+  text-decoration: none;
+  color: #929292;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+
+}
