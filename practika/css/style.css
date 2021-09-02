@@ -6,7 +6,7 @@
   text-align: center;
   display: block;
   font-size: 30px;
-
+  padding-top: 30vh;
 }
 
 .buttom {
@@ -31,4 +31,36 @@
   color: olive;
   background-color: white;
   padding: 20px;
+}
+.section3 {
+  padding: 20px;
+  display: inline-block;
+  text-align: center;
+}
+.box1{
+width: 33%;
+display: block;
+display: inherit;
+color: white;
+background-color: olive;
+text-align: center;
+padding: 15px;
+}
+.box2 {
+width: 33%;
+display: block;
+display: inherit;
+color: olive;
+background-color: white;
+text-align: center;
+padding: 15px;
+}
+.box3 {
+width: 33%;
+display: block;
+display: inherit;
+color: white;
+background-color: olive;
+text-align: center;
+padding: 15px;
 }
