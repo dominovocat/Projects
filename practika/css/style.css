@@ -43,34 +43,37 @@
   padding: 20px;
   display: inline-block;
   text-align: center;
+  margin: 0px;
+  padding: 0px;
 }
 .box1 {
-  width: 33%;
+  width: 30%;
   display: block;
   display: inherit;
   color: white;
   background-color: olive;
   text-align: center;
-  padding: 15px;
-  margin-bottom: 0px;
+  padding: 21px;
+  
+  
 }
+
 .box2 {
-  width: 33%;
+  width: 30%;
   display: block;
   display: inherit;
   color: olive;
   background-color: white;
   text-align: center;
-  padding: 15px;
-  margin-bottom: 0px;
+  padding: 21px;
 }
 .box3 {
-  width: 33%;
+  width: 30%;
   display: block;
   display: inherit;
   color: white;
   background-color: olive;
   text-align: center;
-  padding: 15px;
-  margin-bottom: 0px;
+  padding: 21px;
 }
+
