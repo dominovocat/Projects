@@ -20,6 +20,7 @@
 }
 * {
   margin: 0px;
+  box-sizing: border-box;
 }
 
 .buttom {
@@ -48,41 +49,21 @@
   line-height: 1.5;
 }
 .section3 {
-  padding: 20px;
-  display: inline-block;
-  text-align: center;
-  margin: 0px;
-  padding: 0px;
-}
-.box1 {
-  width: 65vh;
-  display: block;
-  display: inherit;
-  color: white;
-  background-color: rgb(128, 77, 0);
-  text-align: center;
-  padding: 20px;
-  line-height: 1.5;
-}
-
-.box2 {
-  width: 65vh;
-  display: block;
-  display: inherit;
-  color: rgb(128, 77, 0);
+  color: inherit;
+  border-radius: center;
   background-color: white;
-  text-align: center;
-  padding: 20px;
-  line-height: 1.5;
+  color: rgb(128, 77, 0);
 }
-.box3 {
-  width: 65vh;
-  display: block;
-  display: inherit;
-  color: white;
-  background-color: rgb(128, 77, 0);
+.inline-block {
+  display: inline-block;
+  width: 33.33%;
+  padding: 15px;
+  line-height: 1.5em;
+  vertical-align: top;
   text-align: center;
-  padding: 20px;
-  line-height: 1.5;
+}
+.brown{
+  background-color: rgb(128, 77, 0);
+  color: white;
 }
 
